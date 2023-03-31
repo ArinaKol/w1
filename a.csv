@@ -1,0 +1,13 @@
+x,y,ent1_id,ent2_id,ent1,ent2,lang,type
+49.84967,-19.283278,0,5,France,Франция,en,Country
+45.89735,18.25207,1,2,Соединённые_Штаты_Америки,United_States,ln,Country
+47.490196,1.9082102,2,1,United_States,Соединённые_Штаты_Америки,en,Country
+66.1437,2.737433,3,4,Хард-рок,Hard_rock,ln,MusicGenre
+57.861774,3.9488409,4,3,Hard_rock,Хард-рок,en,MusicGenre
+48.36068,-16.899696,5,0,Франция,France,ln,Country
+-11.10823,24.450407,6,10,Made_in_Japan_(Deep_Purple_album),Made_in_Japan,en,Album
+-70.23259,-7.3184476,7,9,Louvie-Juzon,Луви-Жюзон,en,Settlement
+-6.5405426,42.11159,8,11,Фронсак_(Верхняя_Гаронна),"Fronsac,_Haute-Garonne",ln,Settlement
+-22.876593,-81.66931,9,7,Луви-Жюзон,Louvie-Juzon,ln,Settlement
+41.647274,28.900177,10,6,Made_in_Japan,Made_in_Japan_(Deep_Purple_album),ln,Album
+-29.260683,32.78167,11,8,"Fronsac,_Haute-Garonne",Фронсак_(Верхняя_Гаронна),en,Settlement
